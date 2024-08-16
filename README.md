@@ -9,7 +9,7 @@ It's a password manager but, it does not allow you in unless the password is <b>
 
 <h1>How to use it</h1>
 
-<h2>Since the app is just an HTML file, you can clone the repository and start using it or head to the link here: <a target="_blank" href="#"></a></h2>
+<h2>Since the app is just an HTML file, you can clone the repository and start using it or head to the link here: <a target="_blank" href="https://dseanhd.github.io/hackathon-submission/">https://dseanhd.github.io/hackathon-submission/</a></h2>
 
 <h1>Screenshots</h1>
 
