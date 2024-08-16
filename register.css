@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+header {
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+input {
+    width: 20%;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+input:focus {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+    border: 1px black solid;
+    color: white;
+    background-color: rgb(42, 116, 165);
+    padding: 10px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#container h1{
+    margin-bottom: 20px;
+}
+
+#container div {
+    text-align: center;
+}
+
+#input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#input-container > * {
+    margin-bottom: 20px;
+}
+
+#wrongPassword {
+    color: red;
+}
